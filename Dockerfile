@@ -1,7 +1,7 @@
-FROM elixir:1.3.4
+FROM elixir:1.4.5
 MAINTAINER Khaja Minhajuddin <minhajuddink@gmail.com>
 
-ENV REFRESHED_AT=2017-01-02 \
+ENV REFRESHED_AT=2017-07-12 \
     # Set this so that CTRL+G works properly
     TERM=xterm
 
